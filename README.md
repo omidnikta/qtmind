@@ -1,4 +1,4 @@
 # qtmind
 
-Moved To:
-![Colored](https://github.com/mehdioa/qtmind)
+Transfered To:
+![mehdioa](https://github.com/mehdioa/qtmind)
